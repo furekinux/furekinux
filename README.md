@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @furekinux
-- 👀 I’m interested in art and code!
+- 👋 Hi, I’m Didi
+- 👀 I’m interested in art, videogames and code!
 - 🌱 I’m currently learning programming at Campuslands
 - 💞️ I’m looking to collaborate on (idk what to write there lol)
 - 📫 How to reach me: @furekinux on Insta and Twitter
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Good luck finding out
+- ⚡ Fun fact: I draw
 
 <!---
 furekinux/furekinux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
