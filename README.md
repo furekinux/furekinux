@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://i.imgur.com/RRkbo43.gif" alt="Find me on LinkedIn!" width="max"/>
+  <img src="https://i.imgur.com/OBGQUgW.gif" alt="Welcome" width="max"/>
 </h3>
 
 <table align="center">
